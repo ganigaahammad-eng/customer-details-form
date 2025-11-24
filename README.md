@@ -46,6 +46,7 @@
         alert("Error saving data.");
         console.log(result);
       }
+https://<your-github-username>.github.io/<your-repo-name>/
 
     } catch (error) {
       alert("Failed to submit form. Check console.");
