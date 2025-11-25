@@ -204,7 +204,8 @@
 
       // Save to localStorage as table array
       // SEND DATA TO GOOGLE SHEETS
-fetch("YOUR_GOOGLE_WEB_APP_URL", {
+fetch("https://script.google.com/macros/s/AKfycbxyz123/exec
+", {
   method: "POST",
   mode: "no-cors",
   body: JSON.stringify(data),
